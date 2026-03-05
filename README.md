@@ -7,13 +7,13 @@ This project helps students organize their study tasks efficiently.
 
 ## 🚀 Features
 
-- ➕ Add study tasks
-- ⏱️ Set a timer for each task
-- 📊 Progress bar that moves as the timer reduces
-- ✅ Tasks automatically get removed when completed
-- 🎉 "Hurray! Task Completed" animation
-- 🌙 Light and Dark mode toggle
-- 🎨 Animated engineering-themed background
+-  Add study tasks ➕
+-  Set a timer for each task ⏱️
+-  Progress bar that moves as the timer reduces 📊
+-  Tasks automatically get removed when completed ✅
+-  "Hurray! Task Completed" animation 🎉
+-  Light and Dark mode toggle 🌙
+-  Animated engineering-themed background 🎨 
 
 ---
 
@@ -33,7 +33,7 @@ This project was built as a **beginner-friendly web development project using Py
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - User login system
 - Save tasks in database
